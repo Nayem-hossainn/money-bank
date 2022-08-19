@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+    background: rgb(74, 63, 63);
+    
+}
+.container{
+    width: 90%;
+    margin: auto;
+    }
+span{
+    color: yellow;
+}
+.header{
+    text-align: center;
+    margin-top: 100px;
+    color: white;
+}
+.w-100{
+    width: 100%;
+    position: relative;
+}
+.w-33{
+    width: 30%;
+    height: 150px;
+    margin-top: 50px;
+    background: green;
+    color: white;
+    padding: 20px;
+    float: left;
+    margin-right: 30px;
+}
+.w-50{
+    width: 47%;
+    height: 200px;
+    margin-top: 50px;
+    background: orangered;
+    color: white;
+    padding: 20px;
+    float: left;
+    margin-right: 30px;
+
+}
+.deposit-btn{
+    color: white;
+    width:20%;
+    background: linear-gradient(aqua,blue);
+    border: none;
+    padding:10px 5px;
+    font-size: 16px;
+    border-radius: 30px;
+}
+.widthdraw-btn{
+    color: white;
+    width:20%;
+    background: linear-gradient(aqua,blue);
+    border: none;
+    padding:10px 5px;
+    font-size: 16px;
+    border-radius: 30px;
+}
+.nayem{
+    background: #002a;
+}
+input{
+    margin: 10px 0px;
+    width: 80%;
+    padding: 10px 5px;
+    border-radius: 30px;
+    border: none;
+
+}
+p{
+    font-size: 20px;
+}
+div{
+    border-radius: 5px;
+}
+
+
